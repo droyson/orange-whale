@@ -82,7 +82,7 @@ header {
   height: 60px;
   left: 0;
   right: 0;
-  background-image: url('https://lh3.googleusercontent.com/proxy/oz975UHYsu0d_EVKysj-G8Q9sb_QDcUPlsYL_9Dj58CEF-hMV2XgRNLKlx9rHrLTRnVcYHgteDDFsj2VCbDv2ag0ejOpaEXLtTfaNI-4AnxMfp6zUroorTxB5dTlR6FNShXY_Btgwm_hla-BM_9tkXnQAg');
+  background-image: url('/assets/wave.png');
   background-size: contain;
   background-repeat: repeat-x;
   z-index: 5;
